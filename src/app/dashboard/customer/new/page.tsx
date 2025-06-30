@@ -3,7 +3,7 @@ import Link from "next/link";
 import React from "react";
 import NewCustomerForm from "../component/form";
 
-export default function NewCustomern() {
+export default function NewCustomer() {
   return (
     <Container>
       <main className="flex flex-col mt-9 mb-2">
