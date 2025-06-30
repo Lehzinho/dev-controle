@@ -10,7 +10,7 @@ export default async function Dashboard() {
         <div className="flex items-center justify-between">
           <h1 className="text-3xl font-bold">Chamados</h1>
           <Link
-            href="/dashboard/new"
+            href="/dashboard/customer/new"
             className="bg-blue-500 px-4 py-1 rounded text-white"
           >
             Abrir chamado
